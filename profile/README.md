@@ -1,13 +1,7 @@
-TechnoTroop — Software Engineering Management at Scale
+Founded in 2012, we've spent over a decade helping funded software companies bring clarity to engineering.
 
-TechnoTroop is a Software Engineering Management Services company.
+Most growing teams struggle with hidden problems: unclear ROI on engineering spend, unreliable delivery, architecture risks, and technical debt that compounds. Our independent audit surfaces these failures before they arrive — and gives you a structured report with the smallest fix to prevent each one.
 
-We work with startups, growth-stage, and scale-up companies build, scale, and run high-performing engineering teams by providing embedded leadership, managed pods, and full delivery accountability.
+We don't replace your team. We give them the oversight and strategy to move faster with less chaos.
 
-Not staffing. Not freelancing. We own engineering outcomes.
-
-Mission: Enable businesses to scale engineering teams and delivery with fractional, embedded, or long-term CTO-level leadership.
-
-Vision: Become the operating system for distributed software engineering leadership and execution.
-
-Contact: anit@technotroop.com
+100+ engineering teams audited • 10+ years of experience • Seed to Series C
